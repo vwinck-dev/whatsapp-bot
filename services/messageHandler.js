@@ -1,5 +1,5 @@
 // services/messageHandler.js
-const states = require('../config/botStates');
+const states = require('../config.js');
 const actions = require('./actions');
 const { getSession, setStep, resetSession } = require('./sessions');
 

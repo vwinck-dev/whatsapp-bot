@@ -1,4 +1,3 @@
-// config/botStates.js
 module.exports = {
     start: {
       text: "📱 *MAIN MENU* 📱\n\n1. Educational Help\n2. Open Technical Support Ticket\n\nEnter the number of your choice:",
